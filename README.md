@@ -6,7 +6,7 @@
 [![element-ui](https://img.shields.io/badge/element-2.0.9-blue.svg?style=flat-square)](https://github.com/ElemeFE/element)
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudgeFE.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudgeFE)
 
->### A multiple pages app built for OnlineJudge. 
+### A multiple pages app built for OnlineJudge. 
 >### [User Terminal](http://117.78.10.137/#/)
 >### [Administrator Terminal](http://117.78.10.137/admin/#/login)
 >### [API Document](http://121.36.21.111:8080/doc.html#/home)
