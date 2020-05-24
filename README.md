@@ -7,8 +7,9 @@
 [![Build Status](https://travis-ci.org/QingdaoU/OnlineJudgeFE.svg?branch=master)](https://travis-ci.org/QingdaoU/OnlineJudgeFE)
 
 >### A multiple pages app built for OnlineJudge. 
->### User Terminal [Demo](http://117.78.10.137/#/)
->### Administrator Terminal [Demo](http://117.78.10.137/admin/#/login)
+>### [User Terminal](http://117.78.10.137/#/)
+>### [Administrator Terminal](http://117.78.10.137/admin/#/login)
+>### [API Document](http://121.36.21.111:8080/doc.html#/home)
 
 ## Features
 
